@@ -18,4 +18,4 @@
   (== 2.0 2 2/1)
 
   "When things cannot be equal, they must be different"
-  (not= :fill-in-the-blank :xxxxxxx))
+  (not= :fill-in-the-blank __))
